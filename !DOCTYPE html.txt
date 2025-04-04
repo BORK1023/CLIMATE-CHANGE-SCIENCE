@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Climate Change: Effects and Importance</title>
+	<style>
+		body {
+			background-color: #f2f2f2;
+			font-family: Arial, sans-serif;
+		}
+		h1 {
+			color: #008000;
+			text-align: center;
+		}
+		h2 {
+			color: #0000FF;
+			text-align: center;
+		}
+		p {
+			text-align: justify;
+		}
+		table {
+			border-collapse: collapse;
+			width: 100%;
+		}
+		th, td {
+			border: 1px solid #ddd;
+			padding: 10px;
+			text-align: left;
+		}
+		th {
+			background-color: #f0f0f0;
+		}
+		.image {
+			width: 100%;
+			height: auto;
+			border-radius: 10px;
+		}
+		.quotation {
+			font-style: italic;
+			color: #666;
+		}
+		.link {
+			color: #0000FF;
+			text-decoration: none;
+		}
+		.link:hover {
+			color: #008000;
+			text-decoration: underline;
+		}
+	</style>
+</head>
+<body>
+	<h1>Climate Change: Effects and Importance</h1>
+	<h2>Introduction</h2>
+	<p>Climate change is one of the most pressing issues of our time, with far-reaching consequences for our planet and its inhabitants. According to <a href="https://www.ipcc.ch/" class="link">IPCC</a>, climate change is primarily caused by human activities that release greenhouse gases, such as carbon dioxide and methane.</p>
+	<h2>Effects of Climate Change</h2>
+	<p>Climate change has severe effects on the environment, human health, and the economy. Some of the effects include:</p>
+	<ul>
+		<li>Rising sea levels and coastal flooding</li>
+		<li>Increased frequency and severity of heatwaves, droughts, and storms</li>
+		<li>Loss of biodiversity and ecosystem disruption</li>
+		<li>Negative impacts on agriculture, water resources, and human settlements</li>
+	</ul>
+	<h2>Importance of Climate Change</h2>
+	<p>It is essential to address climate change because of its significant impacts on human societies and the environment. According to <a href="https://www.un.org/sustainabledevelopment/climate-change/" class="link">UN</a>, climate change can have devastating effects on:</p>
+	<ul>
+		<li>Human health and well-being</li>
+		<li>Food security and sustainable agriculture</li>
+		<li>Water resources and sanitation</li>
+		<li>Economic growth and sustainable development</li>
+	</ul>
+	<h2>Real-Life Applications of Angle of Depression and Angle Elevation</h2>
+	<p>Angles of depression and elevation are crucial in understanding climate change. For instance:</p>
+	<ul>
+		<li>Measuring sea level rise: Angles of depression can be used to measure the rate of sea level rise.</li>
+		<li>Tracking glacier melting: Angles of elevation can be used to track the rate of glacier melting.</li>
+	</ul>
+	<h2>Expert Insights</h2>
+	<table>
+		<tr>
+			<th>Name</th>
+			<th>Expertise</th>
+			<th>Insights on Climate Change</th>
+		</tr>
+		<tr>
+			<td>Valencia</td>
+			<td>Environmental Scientist</td>
+			<td>"Climate change is a pressing issue that requires immediate attention. We must work together to reduce greenhouse gas emissions and transition to renewable energy sources."</td>
+		</tr>
+		<tr>
+			<td>Penolio</td>
+			<td>Climatologist</td>
+			<td>"Rising sea levels and extreme weather events are just a few of the devastating effects of climate change. We must take action now to mitigate these impacts."</td>
+		</tr>
+		<tr>
+			<td>Manaba</td>
+			<td>Ecologist</td>
+			<td>"Climate change is having a profound impact on ecosystems around the world. We must work to preserve biodiversity and protect vulnerable species."</td>
+		</tr>
+		<tr>
+			<td>Garde</td>
+			<td>Renewable Energy Expert</td>
+			<td>"Transitioning to renewable energy sources is crucial in reducing our reliance on fossil fuels and mitigating the effects of climate change."</td>
+		</tr>
+	</table>
+	<h2>Task: Predicting Flood Levels and Suggesting Protective Barriers</h2>
+IPCC — Intergovernmental Panel on Climate Change
